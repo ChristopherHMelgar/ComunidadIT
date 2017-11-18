@@ -1,0 +1,30 @@
+.cuadrado{
+    display: inline-block;
+    height: 30px;
+}
+
+.unaFila{ 
+    border: 1px solid black;
+    width: 7%;
+}
+
+.dosColumnas{
+    border: 1px solid red;   
+    width: 18%;
+}
+
+.tresColumnas{
+    border: 1px solid green;
+    height: 100px;
+    width: 27%;
+}
+
+.todasColumnas{
+    border: 1px solid violet;
+    width: 100%;
+    
+}
+
+.flotarDosFilas{
+    margin:0 0 0 35%;
+}
